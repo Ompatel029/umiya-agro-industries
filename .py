@@ -7,9 +7,9 @@ app.secret_key = 'your_secret_key'
 
 db_config = {
     'host': 'localhost',
-    'user': 'root',
-    'password': 'P@tel2004',
-    'database': 'om'
+    'user': 'your_username',
+    'password': 'your_password',
+    'database': 'your_databasename'
 }
 
 
